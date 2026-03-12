@@ -1,0 +1,15 @@
+torch==2.7.1
+transformers==4.52.4
+sentence-transformers==5.0.0
+vllm==0.9.1
+faiss-gpu-cu12==1.11.0
+
+chardet
+func-timeout
+loguru
+numpy
+openai
+pandas
+sqlglot
+sqlparse
+tqdm
